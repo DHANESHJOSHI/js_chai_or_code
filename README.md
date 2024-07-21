@@ -1,6 +1,6 @@
 
-
-# Js With Chai Or Code [Learning Is Free] [a link] ('https://www.youtube.com/watch?v=sscX432bMZo')
+[a link] ('https://www.youtube.com/watch?v=sscX432bMZo')
+# Js With Chai Or Code [Learning Is Free] 
 
 👉 Stage 1 :-  [Let const var]
 ----
