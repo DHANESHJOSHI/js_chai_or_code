@@ -1,37 +1,51 @@
 
 # Js With Chai Or Code [Learning Is Free]
 
-👉 Stage 1 :-  [Let const var] 
+👉 Stage 1 :-  [Let const var]
 ----
-👉 Stage 2 :- 
+👉 Stage 2 :-  [Datatype and ECMA standards]
 ----
-👉 Stage 1 :- 
+👉 Stage 3 :-  [Datatype conversion confusion]
 ----
-👉 Stage 1 :- 
+👉 Stage 4 :-  [Why string to number]
 ----
-👉 Stage 1 :- 
+👉 Stage 5 :-  [comparison of datatype]
 ----
-👉 Stage 1 :- 
+👉 Stage 6 :-  [datatype summary]
 ----
-👉 Stage 1 :- 
+👉 Stage 7 :-  [stack and heap memory]
 ----
-👉 Stage 1 :- 
+👉 Stage 8 :-  [String in javascript]
 ----
-👉 Stage 1 :- 
+👉 Stage 9 :-  [Number and maths]
 ----
-👉 Stage 1 :- 
+👉 Stage 10 :-  [date and time]
 ----
-👉 Stage 1 :- 
+👉 Stage 11 :-  [Array part 2]
 ----
-👉 Stage 1 :- 
+👉 Stage 12 :-  [Objects in depth]
 ----
-👉 Stage 1 :- 
+👉 Stage 13 :-  [Objects part 2]
 ----
-👉 Stage 1 :- 
+👉 Stage 14 :-  [Functions and parameters]
 ----
-👉 Stage 1 :- 
+👉 Stage 15 :-  [functions with objects]
 ----
-👉 Stage 1 :- 
+👉 Stage 16 :-  [Scope level and mini hoisting]
+----
+👉 Stage 17 :-  [this and arrow function]
+----
+👉 Stage 18 :-  [Immediately invoked function]
+----
+👉 Stage 19 :-  [How does javascript works behind the scene]
+----
+👉 Stage 20 :-  [for loop break and continue]
+----
+👉 Stage 21 :-  [while do while loop]
+----
+👉 Stage 22 :-  [High order array loops]
+----
+👉 Stage 23 :-  [filter map and reduce]
 ----
 
 
